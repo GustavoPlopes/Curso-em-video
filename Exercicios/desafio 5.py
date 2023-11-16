@@ -5,7 +5,7 @@ n = int(input('Digite um numero para saber seus próximos sucessores e antecesso
 c = int(input('Quantos você quer que mostre?'))
 sucessor = n
 antecessor = n
-for x in range(c ):
+for x in range(c):
     if sucessor:
         sucessor += 1
     print(f'Sucessores: {sucessor}')
