@@ -1,9 +1,0 @@
-{
-    "python.testing.pytestArgs": [
-        "Exercicios"
-    ],
-    "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true,
-    "docwriter.progress.trackFunctions": true,
-    "docwriter.style": "Auto-detect"
-}
