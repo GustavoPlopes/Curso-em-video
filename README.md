@@ -1,5 +1,5 @@
-- Curso em video -
+- Curso em video 
 
-Cursos realizadosdo curso em video do professor Gustavo Guanabara
+Cursos realizados do curso em video do professor Gustavo Guanabara.
 - Python
 - MySQL 
