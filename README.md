@@ -5,5 +5,6 @@
    - Mundo 1
    - Mundo 2
    - Mundo 3   
-- [x] Curso de [MySQL](https://github.com/GustavoPlopes/Cursoemvideo/tree/main/MySql) 
+- [x] Curso de [MySQL](https://github.com/GustavoPlopes/Cursoemvideo/tree/main/MySql)
+- [x] Curso de [Git e GitHub](https://github.com/GustavoPlopes/Cursoemvideo/tree/main/Git%20e%20GitHub/projeto-site-master)
 ---
